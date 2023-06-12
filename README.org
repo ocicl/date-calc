@@ -1,0 +1,10 @@
+* date-calc
+
+Maintenance fork of the Date-Calc library
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/ruricolist/date-calc.git   |
+| commit  | 35dca38  |
+| systems | date-calc |
+|---------+-------------------------------------------|
+
